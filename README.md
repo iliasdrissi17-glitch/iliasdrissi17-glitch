@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Ilias Drissi
 
-<!--
-**iliasdrissi17-glitch/iliasdrissi17-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Mechanical Engineering student at ETH Zürich focused on robotics, autonomous systems, perception, planning, and control.
 
-Here are some ideas to get you started:
+## What I work on
+- LiDAR perception for Formula Student Driverless at AMZ Racing
+- Multi-robot coordination and decentralized autonomy
+- Satellite docking through trajectory optimization and replanning
+- Reinforcement learning for control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- **satellite-docking-planner** — trajectory optimization, SCvx-style replanning, obstacle avoidance
+- **Multi-agent-goal-collection** — decentralized task allocation, planning, trajectory tracking, conflict resolution
+- **gridworld-mdp-solver** — stochastic MDP solver with value iteration and policy iteration
+
+## Tech stack
+Python · C++ · C · ROS 2 Jazzy · PyTorch · MATLAB · NumPy · Git
+
+## Background
+I enjoy building systems at the perception–planning–control interface, with a strong interest in autonomous robotics and real-time decision-making.
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/ilias-drissi-684b04312/]
